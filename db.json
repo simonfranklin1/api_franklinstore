@@ -1,5 +1,5 @@
 {
-    "catalogo": [
+    "products": [
         {
             "id": 1,
             "brand": "Zara",
@@ -156,5 +156,6 @@
                 ],
             "women": false
         }
-    ]
+    ],
+    "users": []
 }
