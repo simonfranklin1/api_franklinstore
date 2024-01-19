@@ -157,5 +157,22 @@
             "women": false
         }
     ],
-    "users": []
+    "users": [
+        {
+            "name": "Jonas Paiva",
+            "email": "jonasp@gmail.com",
+            "password": "contajonasp",
+            "orders": [],
+            "favorites": [],
+            "id": 1
+        },
+        {
+            "name": "Simon Franklin",
+            "email": "simonfranklin@gmail.com",
+            "password": "simondino",
+            "orders": [],
+            "favorites": [],
+            "id": 2
+        }
+    ]
 }
